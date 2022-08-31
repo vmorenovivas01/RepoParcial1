@@ -1,0 +1,4 @@
+<VirtuallHost *:80>
+        ServerName www.servicios.com
+        RedirectPermanent / http://www.minuevoservicio.com/
+</VirtualHost>
